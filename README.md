@@ -1,2 +1,5 @@
 # Covid-Cases-Analysis
-This project has analysis of covid-19 cases, death, and vaccination 
+# Outline of the Analysis
+Covid cases around the world
+Covid death around the world and in USA
+Covid vaccination around the world
