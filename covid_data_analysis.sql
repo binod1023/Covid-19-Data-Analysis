@@ -125,7 +125,7 @@ WHERE dea.continent is NOT NULL
 SELECT *,rolling_people_vaccinated/population*100
 FROM pop_vacc
 
---TEMP TABLE
+--Other way of getting rolling people vaccinated by creating TEMP TABLE
 DROP TABLE if exists percent_people_vaccinated
 CREATE TABLE percent_people_vaccinated
 (
