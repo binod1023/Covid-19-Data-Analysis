@@ -1,5 +1,6 @@
 # Covid-Cases-Analysis
-[Link to covid death data](https://docs.google.com/spreadsheets/d/1ZzRRPsLidl6aEvhg6Fi6_tlr0J-sP4jg9kJ3QxBdFvQ/edit?usp=sharing)
+[Link to covid death dataset file](https://docs.google.com/spreadsheets/d/1ZzRRPsLidl6aEvhg6Fi6_tlr0J-sP4jg9kJ3QxBdFvQ/edit?usp=sharing)
+[Link to covid vaccination dataset file](https://docs.google.com/spreadsheets/d/1ZzRRPsLidl6aEvhg6Fi6_tlr0J-sP4jg9kJ3QxBdFvQ/edit?usp=sharing)
 # Outline of the Analysis
 This SQL data analysis performs Covid data analysis from January 28, 2020 to July 20, 2021.
 
