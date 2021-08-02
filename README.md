@@ -13,6 +13,6 @@ Changes data type, deal with null values
 
 Shows total covid cases and total death around the world
 
-Shows covid infection percentage and covid death percent by countries, date, and continent
+Shows covid infection percentage and covid death percent by countries, date, and continent.
 
 Perform analysis to show new vaccination rate by countries and date.
