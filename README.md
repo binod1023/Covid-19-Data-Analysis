@@ -9,7 +9,7 @@ Imported covid data from ourworldindata.org
 
 Downloaded the data set as excel sheet and made necessary changes and saved file as covid_death and covid_vaccination.
 
-Changed data type, dealed with null values.
+Used joins, Temp tables, aggregate functions, data types conversion, and created views to explore the confirmed covid-19 deaths.
 
 Showed total covid cases and total death around the world.
 
@@ -17,4 +17,5 @@ Showed covid infection percentage and covid death percent by countries, date, an
 
 Performed analysis to show new vaccination rate by countries and date.
 
-Used Tableau for visualisation and to show prediction of future Covid-19 infection.
+Build a dashboard in Tableau by reporting my findings regarding the Covid-19 exploratory analysis.
+
